@@ -1,0 +1,35 @@
+.body {
+  background-color: black;
+}
+
+.jumbotron-fluid {
+  padding-top: 10px;
+  padding-left: 10px;
+  background-image: url("../images/bacteria.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height:200px;
+}
+.jumbotron-fluid h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: "bolder";
+}
+.jumbotron-fluid p {
+    color: white;
+    font-size: 25px;
+    font-weight: "bold";
+}
+
+.button {
+  margin-right: 25px !important;
+}
+.well {
+  padding: 20px;
+  margin: 20px;
+}
+
+.panel {
+  padding: 20px;
+  margin: 20px;
+}
